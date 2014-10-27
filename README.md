@@ -1,5 +1,4 @@
 # Dockerfile templates
----
 
 Dockerfileのテンプレート。
 

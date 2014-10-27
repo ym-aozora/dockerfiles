@@ -1,5 +1,4 @@
 # CentOS7
----
 
 CentOS7のベース。
 

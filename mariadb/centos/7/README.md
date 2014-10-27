@@ -1,5 +1,4 @@
 # MariaDB on CentOS7
----
 
 MariaDBをCentOS7にインストール。
 

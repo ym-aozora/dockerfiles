@@ -1,5 +1,4 @@
 # Nginx on CentOS7
----
 
 NginxをCentOS7にインストール。
 

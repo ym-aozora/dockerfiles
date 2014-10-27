@@ -1,5 +1,4 @@
 # Nginx on CentOS6
----
 
 NginxをCentOS6にインストール。
 
