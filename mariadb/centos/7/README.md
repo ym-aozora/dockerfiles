@@ -9,6 +9,6 @@ MariaDBをCentOS7にインストール。
 
 ## MariaDBコンテナのビルド & 実行
 
-1. `cd /home/core/share/dockerfiles/mariadb/master`
+1. `cd dockerfiles/mariadb/master`
 2. `docker build --rm -t name/mariadb .`
 3. `docker run --privileged -d -p 3306:3306 name/mariadb`
